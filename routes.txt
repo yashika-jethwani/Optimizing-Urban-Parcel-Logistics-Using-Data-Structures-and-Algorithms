@@ -1,0 +1,73 @@
+# Routes Data File for CityDrop Logistics
+# Format: from_location,to_location,travel_time_minutes
+
+# Central Warehouses and Distribution
+WarehouseA,DistributionHub,10
+WarehouseB,DistributionHub,15
+DistributionHub,CentralStation,8
+
+# Direct routes from warehouses to major areas
+WarehouseA,Palm Street,20
+WarehouseA,Sunset Blvd,25
+WarehouseA,Creek Ave,22
+WarehouseA,Maple Road,28
+WarehouseA,Garden Lane,30
+WarehouseA,Oak Hill,24
+WarehouseA,Pine Avenue,26
+
+# Main distribution network
+DistributionHub,Palm Street,12
+DistributionHub,Sunset Blvd,18
+DistributionHub,Creek Ave,15
+DistributionHub,Maple Road,20
+DistributionHub,Garden Lane,25
+DistributionHub,Oak Hill,16
+DistributionHub,River Drive,19
+DistributionHub,Pine Avenue,22
+DistributionHub,Forest Path,18
+Palm Street,Lotus Street,5
+Palm Street,Neem Street,8
+Palm Street,Mango Street,10
+Sunset Blvd,Oak Hill,7
+Oak Hill,River Drive,12
+River Drive,Pine Avenue,15
+Creek Ave,Forest Path,6
+Forest Path,Hilltop Avenue,9
+Hilltop Avenue,Rosewood Road,11
+Maple Road,Ocean View,14
+Maple Road,Crescent Lane,16
+Maple Road,Westlake Road,13
+Garden Lane,Orchard Drive,8
+Garden Lane,Aspen Circle,10
+Orchard Drive,Beach Ave,18
+Pine Street,Pine Avenue,3
+Neem Street,Hilltop Avenue,12
+Mango Street,Rosewood Road,15
+Ocean View,Ocean Drive,4
+Rosewood Road,Persimmon Road,6
+Cedar Ridge,Forest Path,8
+Lakewood Avenue,Creek Ave,5
+Broad Street,CentralStation,3
+Bay Street,Ocean View,7
+Oak Drive,Oak Hill,4
+Birch Lane,Forest Path,6
+Redwood Path,Forest Path,5
+Maple Way,Maple Road,3
+Spruce Court,Forest Path,7
+Pinecrest Drive,Pine Avenue,4
+Oakwood Court,Oak Hill,3
+Willow Way,Forest Path,4
+Elm Lane,Garden Lane,3
+Highland Blvd,Hilltop Avenue,2
+Evergreen Lane,Forest Path,5
+Coconut Lane,Lotus Street,4
+River Road,River Drive,2
+Maple Grove,Maple Road,4
+Oak Street,Oak Hill,3
+CentralStation,Palm Street,15
+CentralStation,Sunset Blvd,20
+CentralStation,Creek Ave,18
+CentralStation,Maple Road,24
+CentralStation,Oak Hill,17
+CentralStation,Pine Avenue,25
+CentralStation,Garden Lane,22
