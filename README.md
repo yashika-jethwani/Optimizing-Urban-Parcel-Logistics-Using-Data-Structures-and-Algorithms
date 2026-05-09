@@ -1,1 +1,1 @@
-# Optimizing-Urban-Parcel-Logistics-Using-Data-Structures-and-Algorithms
+A modular Python-based delivery management system that optimizes urban parcel logistics using core data structures and algorithms such as graphs, hash tables, heaps, merge sort, and quick sort. The project includes route planning with Dijkstra’s algorithm, customer lookup management, priority-based parcel scheduling, and delivery record sorting with performance analysis.
